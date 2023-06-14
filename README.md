@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Developer - Builder (Minecraft) - Designer
-- 🤔 Enjoys Minecraft, web design (Simple), Discord bot developing and building!.
+- 🔭 Former beginner full stack developer.
+- 🤔 Enjoys UI/UX Design, Tennis, and HTML/CSS web development.
 - 😄 Pronouns: He/Him
+- 😯 Fun Fact: can't think of one haha :)
 
