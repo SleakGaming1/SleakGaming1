@@ -4,9 +4,9 @@
 
 # Hi there 👋
 
-- 🔭 Aspiring PM5 plugin developer.
+- 🔭 Aspiring PM5 plugin developer
 - 🎨 UI/UX designer
-- 🤔 Enjoys UI/UX Design, Tennis, and HTML/CSS web development.
+- 🤔 Enjoys UI/UX Design, Tennis, and HTML/CSS web development
 - 😄 Pronouns: He/Him
 
 ## Links
