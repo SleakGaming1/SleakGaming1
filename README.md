@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=79B4F1&width=435&lines=Pocketmine+Plugin+Dev;UI%2FUX+Designer)](https://git.io/typing-svg)
 ## Hi there 👋
 
@@ -17,3 +19,7 @@
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="padding-right:10px;"/>
 </p>
+
+<details>
+ <summary><h3>Test</h3></summary>
+   hey
