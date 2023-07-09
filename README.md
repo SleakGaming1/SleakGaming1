@@ -19,9 +19,3 @@
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="padding-right:10px;"/>
 </p>
-
-#
-
-<details>
- <summary><h3>Test</h3></summary>
-   hey
