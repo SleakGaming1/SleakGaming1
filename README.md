@@ -6,4 +6,6 @@
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Links:</h3>
+<p align="left">
 <a href="https://twitter.com/SleakGaming1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a> <a href="(https://discordapp.com/users/1121920712207249439)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a>
+</p>
