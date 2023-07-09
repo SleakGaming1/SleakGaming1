@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" width="1025" height="385">
+<img src="banner.png" alt="Banner" width="769" height="289">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=79B4F1&width=435&lines=Pocketmine+Plugin+Dev;UI%2FUX+Designer)](https://git.io/typing-svg)
 ## Hi there 👋
