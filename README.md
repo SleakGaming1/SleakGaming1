@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Former beginner full stack developer.
+- 🔭 Beginner PM5 plugin developer and UI/UX designer.
 - 🤔 Enjoys UI/UX Design, Tennis, and HTML/CSS web development.
 - 😄 Pronouns: He/Him
-- 😯 Fun Fact: can't think of one haha :)
 
