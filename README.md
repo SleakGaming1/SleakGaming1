@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner" width="769" height="289">
 </p>
 
-# Hi there 👋
+# Hey there 👋
 
 - 🔭 Aspiring PM5 plugin developer
 - 🎨 UI/UX designer
