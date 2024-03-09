@@ -4,9 +4,9 @@
 
 # Hey there 👋
 
-- 🔭 Beginner PM5 plugin developer
-- 🎨 Beginner UI/UX designer
-- 🤔 Enjoys UI/UX Design, Minecraft development, and HTML/CSS web development
+- 🔭 Beginner Pocketmine-MP 5 plugin developer.
+- 🎨 Beginner UI/UX designer.
+- 🤔 Enjoys UI/UX Design, Minecraft development, and HTML/CSS web development.
 - 😄 Pronouns: He/Him
 
 ## Links
